@@ -1,0 +1,2 @@
+**** Importent
+In public folder never put private credinciels 
