@@ -7,7 +7,10 @@ function App() {
   return (
     <>
 
-      <Navbar title="Codiel2" />
+      <Navbar
+        title= "Codiel"
+      />
+      {/* <Navbar /> */}
     </>
   );
 }
